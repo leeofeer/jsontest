@@ -3,12 +3,5 @@
     { "id": 1, "name": "leo", "token": "abcDeFg" },
     { "id": 2, "name": "noelia", "token": "abcDeFh" },
     { "id": 3, "name": "sheldon", "token": "abcDeFo" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
