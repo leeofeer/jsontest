@@ -1,7 +1,9 @@
 {
-"users": [{
-  "id": 1,
-  "user": "leo",
-  "token": "AbcDefGhi123"
-}]
+  "users": [
+    {
+      "id": 1,
+      "name": "leo",
+      "token": "access"
+    }
+  ]
 }
